@@ -56,7 +56,7 @@ npm run preview
 
 ## 📸 How to Customize the Photos
 
-The project contains **18 unique photo placeholders** stored inside the `/public/images/` directory. You can swap them using one of two methods:
+The project contains **18 unique photo placeholders** stored inside the `/public/images/` directory (if not Available then create a folder named as ""**images**"" in the path '/public/images/'). You can swap them using one of two methods:
 
 ### 💡 Method A: The Zero-Code Swap (Easiest!)
 You don't need to touch any code! Simply:
